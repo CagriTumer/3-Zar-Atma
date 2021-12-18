@@ -1,0 +1,7 @@
+C:\Users\conyc\source\repos\3zarOyunu\3zarOyunu\bin\Debug\3zarOyunu.exe.config
+C:\Users\conyc\source\repos\3zarOyunu\3zarOyunu\bin\Debug\3zarOyunu.exe
+C:\Users\conyc\source\repos\3zarOyunu\3zarOyunu\bin\Debug\3zarOyunu.pdb
+C:\Users\conyc\source\repos\3zarOyunu\3zarOyunu\obj\Debug\3zarOyunu.csproj.AssemblyReference.cache
+C:\Users\conyc\source\repos\3zarOyunu\3zarOyunu\obj\Debug\3zarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\conyc\source\repos\3zarOyunu\3zarOyunu\obj\Debug\3zarOyunu.exe
+C:\Users\conyc\source\repos\3zarOyunu\3zarOyunu\obj\Debug\3zarOyunu.pdb
